@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.btn {
+    position: absolute;
+    border: none;
+    border-radius: 25%;
+    background-color: rgb(29, 203, 73);
+    cursor: pointer;
+}
+
+.btn_remove {
+    left: 95%;
+}
+
+.btn_add {
+    left: 1%
+}
